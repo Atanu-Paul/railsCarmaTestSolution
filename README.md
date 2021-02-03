@@ -12,4 +12,7 @@
 6. **now chat and enjoy.**
 
 ### Note: Keep and eye on the terminal to see messages like user connected and disconneted etc. If have a desire to take a look at the database data just paste the mogodb atlas url in mongo compass and connect and go to the chatdb database's thechats collection.
-# railsCarmaTestSolution
+
+### Thank you,
+
+### Atanu Paul.
